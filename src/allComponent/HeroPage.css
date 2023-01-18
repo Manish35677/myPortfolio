@@ -50,4 +50,9 @@
     .hero .content p {
         font-size: 1.4rem;
     }
+    .content .btn{
+        display: flex;
+        /* padding: 5px 5px; */
+        flex-direction: column;
+    }
 }
